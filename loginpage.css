@@ -1,0 +1,46 @@
+.log{
+    background-color: rgb(152, 152, 219);
+    background-position: 50%;
+    border: 2px solid black ;
+    border-radius: 10px;
+    background-position: center;
+    box-shadow: 50px;
+    padding: 10px;
+    width: 300px;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 10px;
+    margin: auto;
+}
+#in{
+    border: none;
+    padding-bottom: 5px;
+}
+button{
+    background-color: rgb(179, 174, 174);
+    cursor: pointer;
+}
+#image{
+    padding: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: none;
+}
+h2{
+    text-align: center;
+}
+.welcome{
+    align-items: center;
+    border-radius: 10px;
+}
+body{
+   <!-- background-image: url('reel4.avif'); commented -->
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: cyan;
+    background-position: auto;
+    margin-top: 100px;
+    font-family: 'Roboto';
+    color: black;
+}
